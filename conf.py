@@ -79,3 +79,9 @@ context = {
 }
 
 html_context = context
+
+# for epub
+epub_copyright = "Anyone can download, modify, and translate.\n"
+"The copyright of the original English version belongs to Google.\n"
+"Welcome submit merge request to us."
+epub_version = 0.1
